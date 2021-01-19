@@ -37,7 +37,7 @@ namespace dotent_name_sort
         }
 
         static void writeOutput(List<person> list){
-            string path = Path.Combine(Directory.GetCurrentDirectory(), "sorted-names.txt");
+            string path = Path.Combine(Directory.GetCurrentDirectory(), "sorted-names-list.txt");
             
             using (System.IO.StreamWriter file =
             new System.IO.StreamWriter(path))
@@ -51,7 +51,7 @@ namespace dotent_name_sort
 
         static void Main(string[] args)
         {
-            string[] names = loadFile("unsorted-names.txt");
+            string[] names = loadFile("unsorted-names-list.txt");
             addNamesToList(names);
             List<person> newList = personList.OrderBy(p=> p.lastName).ToList();
             writeOutput(newList);
