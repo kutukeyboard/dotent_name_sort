@@ -1,0 +1,12 @@
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.exe
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.deps.json
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.runtimeconfig.json
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.runtimeconfig.dev.json
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.dll
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\bin\Debug\netcoreapp3.1\name_sort.pdb
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.AssemblyInfoInputs.cache
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.AssemblyInfo.cs
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.csproj.CoreCompileInputs.cache
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.dll
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.pdb
+C:\Users\Surya\Documents\GitHub\dotent_name_sort\name_sort\name_sort\obj\Debug\netcoreapp3.1\name_sort.genruntimeconfig.cache
